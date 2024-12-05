@@ -72,6 +72,7 @@ public class Exercicio_06_SC {
         //saída
         System.out.println("\nNome do Colaborador: " + nomeColaborador);
         System.out.println("Cargo: " + cargo);
+        System.out.println("Salário atual: " + salario);
         System.out.println("Novo Salário: " + novoSalario);
         
         //fim
