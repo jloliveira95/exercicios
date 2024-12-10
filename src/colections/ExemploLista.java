@@ -33,7 +33,7 @@ public class ExemploLista {
 		System.out.println("\nExibe e Retira da fila o 1º Elemento (HEAD): " + fila.poll());
 		
 		System.out.println("\nExibir todos os Elementos da fila por Iteração");
-                
+                        
 		Iterator<Integer> iterator = fila.iterator();
 		
 		while(iterator.hasNext()){
